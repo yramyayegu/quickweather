@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yramyayegu.github.io/quickweather/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/yramyayegu.github.io/quickweather/static/js/main.37495d30.chunk.js",
+    "main.js.map": "/yramyayegu.github.io/quickweather/static/js/main.37495d30.chunk.js.map",
+    "runtime-main.js": "/yramyayegu.github.io/quickweather/static/js/runtime-main.74bd0f58.js",
+    "runtime-main.js.map": "/yramyayegu.github.io/quickweather/static/js/runtime-main.74bd0f58.js.map",
+    "static/js/2.e8ccc315.chunk.js": "/yramyayegu.github.io/quickweather/static/js/2.e8ccc315.chunk.js",
+    "static/js/2.e8ccc315.chunk.js.map": "/yramyayegu.github.io/quickweather/static/js/2.e8ccc315.chunk.js.map",
+    "static/js/3.cd3e78b8.chunk.js": "/yramyayegu.github.io/quickweather/static/js/3.cd3e78b8.chunk.js",
+    "static/js/3.cd3e78b8.chunk.js.map": "/yramyayegu.github.io/quickweather/static/js/3.cd3e78b8.chunk.js.map",
+    "index.html": "/yramyayegu.github.io/quickweather/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/yramyayegu.github.io/quickweather/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e8ccc315.chunk.js.LICENSE.txt": "/yramyayegu.github.io/quickweather/static/js/2.e8ccc315.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74bd0f58.js",
+    "static/js/2.e8ccc315.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.37495d30.chunk.js"
+  ]
+}
